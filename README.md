@@ -1,4 +1,4 @@
-# todos
+# Todos
 
 ## Project setup
 ```
@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# About Project
+This is the app to learn vuejs 3 and bulma framework.
+
+
